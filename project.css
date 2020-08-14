@@ -8,9 +8,20 @@ li a {
     font-family: sans-serif;
     font-size: 18px;
     font-weight: 500px;
+    color: honeydew;
 }
 header{
     justify-content: space-between;
     display: flex;
     padding: 30px 10%;
+}
+.nav-one{
+    list-style: none;
+}
+.nav-one li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav-one li a:hover{
+    color: lightseagreen;
 }

@@ -1,18 +1,19 @@
 body{
-    background-color: gray;
+    background-color:#131f33;
 }
-nav{
-    text-decoration: none;
-    color: red;
-}
-nav ul li a{
-    padding: 20px;
-    margin: 5px;
-    text-decoration: none;
-    text-align: end;
-    justify-content: center;
+header{
+    justify-content: space-between;
     display: flex;
+    padding: 30px 10%;
+}
 
+li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500px;
+    color: honeydew;
+}
 }
 h2{
     text-align: center;
@@ -25,6 +26,6 @@ img{
     border-radius: 1px black;
     box-shadow: 2px gray;
 }
-p{
+.nav-two{
 
 }
