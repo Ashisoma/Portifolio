@@ -39,15 +39,22 @@ img{
 h2{
     color: aquamarine;
     font-size: 32px;
-    font-family: lobster;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+    position: relative;
 }
 #bill{
     color:white;
     padding: 30px;
     margin: 20px;
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    left: 70px;
+    position: relative;
+    transition: 1s;
 }
 img{
     position: relative;
+    left: 30px;
 }
