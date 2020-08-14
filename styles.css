@@ -14,7 +14,7 @@ li a{
     font-weight: 500px;
     color: honeydew;
 }
-}
+
 h2{
     text-align: center;
     font-size: large;
@@ -27,5 +27,27 @@ img{
     box-shadow: 2px gray;
 }
 .nav-two{
-
+    list-style: none;
+}
+.nav-two li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav-two li a:hover{
+    color:skyblue;
+}
+h2{
+    color: aquamarine;
+    font-size: 32px;
+    font-family: lobster;
+}
+#bill{
+    color:white;
+    padding: 30px;
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+img{
+    position: relative;
 }
