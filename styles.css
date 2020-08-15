@@ -58,3 +58,12 @@ img{
     position: relative;
     left: 30px;
 }
+footer{
+    padding: 200px 400px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.social{
+    padding: 10px;
+    height: 40px;
+}
