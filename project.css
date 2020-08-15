@@ -27,5 +27,27 @@ header{
 }
 section{
     color: white;
+    padding-top: 20px;
+    display: inline-flex;
 }
-
+#shona{
+    padding: 10px;
+    border-radius: 2px white;
+    height: 150px;
+    width:250px;
+}
+#pet{
+    padding: 10px;
+    border-radius: 2px white;
+    height: 150px;
+    width: 250px;
+}
+#travel{
+    padding: 10px;
+    border-radius: 2px white;
+    height: 150px;
+    width: 250px;
+}
+h3{
+    padding: 8px;
+}
