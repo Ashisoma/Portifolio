@@ -24,6 +24,7 @@ header{
 }
 .nav-one li a:hover{
     color: lightseagreen;
+    size: 150%;
 }
 section{
     color: white;
@@ -61,6 +62,7 @@ p{
 }
 #pet:hover{
     size: 150%;
+    
 }
 #travel{
     border: solid orange;
@@ -87,6 +89,7 @@ h3{
 h3 a{
     text-decoration:none ;
     color: aquamarine;
+    size: 150%;
 }
 h3 a:hover{
     color: white;
@@ -97,7 +100,6 @@ img{
     object-fit: cover;
 }
 footer{
-    padding-top: 50px;
-    display: inline-flexbox;
-    size: 70px;
+    padding: 40px;
+    justify-content: space-between;
 }
