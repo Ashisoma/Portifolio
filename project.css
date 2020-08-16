@@ -40,8 +40,12 @@ h3{
     text-align: left;
 }
 p{
-    font-size: 24px;
+    font-size: 21px;
     font-family: 'Courier New', Courier, monospace;
+}
+p a{
+    text-decoration:none ;
+    color: red;
 }
 #shona{
     border: 3px solid orange;
