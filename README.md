@@ -10,5 +10,5 @@ The project has use of HTML and CSS.
 It has links to  my projects website.
 
 Licence and copywrite.
-This webite was created by Onesmus Okali with the github accout ASHISOMA, No adding or deleting is alowed without cioncent of the owner.
+This webite was created by Onesmus Okali with the github accout ASHISOMA, No adding or deleting is alowed without concent of the owner.
 
